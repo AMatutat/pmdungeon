@@ -9,7 +9,6 @@ import com.badlogic.gdx.math.Rectangle;
 import com.badlogic.gdx.math.Vector3;
 import com.badlogic.gdx.utils.Disposable;
 import de.fhbielefeld.pmdungeon.game.GameWorld;
-import de.fhbielefeld.pmdungeon.game.characters.components.InventoryComponent;
 import de.fhbielefeld.pmdungeon.game.interactable.Chest;
 import de.fhbielefeld.pmdungeon.game.interactable.Interactable;
 import de.fhbielefeld.pmdungeon.game.items.Item;

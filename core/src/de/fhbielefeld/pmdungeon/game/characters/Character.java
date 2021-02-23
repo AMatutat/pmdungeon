@@ -7,7 +7,6 @@ import com.badlogic.gdx.utils.TimeUtils;
 import de.fhbielefeld.pmdungeon.game.GameWorld;
 import de.fhbielefeld.pmdungeon.game.characters.components.GraphicsComponent;
 import de.fhbielefeld.pmdungeon.game.characters.components.InputComponent;
-import de.fhbielefeld.pmdungeon.game.characters.components.InventoryComponent;
 import de.fhbielefeld.pmdungeon.game.dungeon.dungeonconverter.Coordinate;
 import de.fhbielefeld.pmdungeon.game.dungeon.tiles.Tile;
 import de.fhbielefeld.pmdungeon.game.interactable.Interactable;
